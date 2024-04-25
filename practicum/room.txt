@@ -1,0 +1,68 @@
+Bobby is trying to enter the room...
+A spot is open! Bobby is entering the room!
+Rowan is trying to enter the room...
+A spot is open! Rowan is entering the room!
+Mr. J is trying to enter the room...
+A spot is open! Mr. J is entering the room!
+Megan is trying to enter the room...
+The room is full! Megan will wait until a spot opens up.
+Tori is trying to enter the room...
+The room is full! Tori will wait until a spot opens up.
+Hermione is trying to enter the room...
+The room is full! Hermione will wait until a spot opens up.
+Lightning is trying to enter the room...
+The room is full! Lightning will wait until a spot opens up.
+Cutie is trying to enter the room...
+The room is full! Cutie will wait until a spot opens up.
+Buttercup is trying to enter the room...
+The room is full! Buttercup will wait until a spot opens up.
+Kimmi is trying to enter the room...
+The room is full! Kimmi will wait until a spot opens up.
+Mr. J is hanging out in the room for 2 seconds...
+Bobby is hanging out in the room for 2 seconds...
+Rowan is hanging out in the room for 1 seconds...
+Rowan is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Megan is entering the room!
+Megan is hanging out in the room for 4 seconds...
+The room is full! Kimmi will wait until a spot opens up.
+The room is full! Buttercup will wait until a spot opens up.
+The room is full! Cutie will wait until a spot opens up.
+The room is full! Lightning will wait until a spot opens up.
+The room is full! Hermione will wait until a spot opens up.
+The room is full! Tori will wait until a spot opens up.
+Mr. J is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Kimmi is entering the room!
+Kimmi is hanging out in the room for 3 seconds...
+The room is full! Tori will wait until a spot opens up.
+The room is full! Hermione will wait until a spot opens up.
+The room is full! Lightning will wait until a spot opens up.
+The room is full! Cutie will wait until a spot opens up.
+The room is full! Buttercup will wait until a spot opens up.
+Bobby is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Tori is entering the room!
+Tori is hanging out in the room for 3 seconds...
+The room is full! Buttercup will wait until a spot opens up.
+The room is full! Cutie will wait until a spot opens up.
+The room is full! Lightning will wait until a spot opens up.
+The room is full! Hermione will wait until a spot opens up.
+Kimmi is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Buttercup is entering the room!
+Buttercup is hanging out in the room for 4 seconds...
+The room is full! Hermione will wait until a spot opens up.
+The room is full! Lightning will wait until a spot opens up.
+The room is full! Cutie will wait until a spot opens up.
+Megan is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Hermione is entering the room!
+The room is full! Cutie will wait until a spot opens up.
+The room is full! Lightning will wait until a spot opens up.
+Hermione is hanging out in the room for 1 seconds...
+Tori is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Cutie is entering the room!
+Cutie is hanging out in the room for 2 seconds...
+The room is full! Lightning will wait until a spot opens up.
+Hermione is leaving the room and letting anyone who happens to be waiting know!
+A spot is open! Lightning is entering the room!
+Lightning is hanging out in the room for 3 seconds...
+Cutie is leaving the room and letting anyone who happens to be waiting know!
+Buttercup is leaving the room and letting anyone who happens to be waiting know!
+Lightning is leaving the room and letting anyone who happens to be waiting know!
